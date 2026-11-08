@@ -30,18 +30,4 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 
----
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=manarmrabet&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=manarmrabet&theme=merko&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manarmrabet&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=manarmrabet&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
